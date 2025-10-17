@@ -46,7 +46,7 @@ This project is ideal for demonstrating:
 - Clean separation of logic (data, UI, storage)
 
 ## Author
-- Dhruv Malu
+- Dhruv Malu and Srinivas Reddy
 - GitHub: [To-Do-list-using-Linkedlist](https://github.com/yourusername/To-Do-list-using-Linkedlist)
 
 ---
